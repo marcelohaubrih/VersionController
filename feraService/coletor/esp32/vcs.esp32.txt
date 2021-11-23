@@ -1,6 +1,3 @@
-// 20211123183016
-// https://dl.dropboxusercontent.com/s/nea9ad5rz9xj6ym/vcs.esp32.txt
-
 {
   "swVersion": "1.1",
   "swMandatory": false,
