@@ -1,7 +1,7 @@
 {
-  "swVersion": "1.1",
-  "swMandatory": false,
-  "swRelease": "2020-04-19T16:00:00Z",
+  "swVersion": "1.2",
+  "swMandatory": true,
+  "swRelease": "2021-11-24T04:59:00Z",
   "swURL": "https://github.com/marcelohaubrih/VersionController/tree/main/feraService/coletor/nodemcu/fera-coletor.ino.nodemcu.bin",
   "fsVersion": "1.1",
   "fsMandatory": false,
