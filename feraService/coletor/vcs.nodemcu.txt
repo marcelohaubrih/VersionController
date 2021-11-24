@@ -2,7 +2,7 @@
   "swVersion": "1.2",
   "swMandatory": true,
   "swRelease": "2021-11-24T04:59:00Z",
-  "swURL": "http://servelx-interno.duckdns.org:3000/vcs/fera-coletor.ino.nodemcu.bin",
+  "swURL": "https://web.gitcoy.com/vcs/fera-coletor.ino.nodemcu.bin",
   "fsVersion": "1.1",
   "fsMandatory": false,
   "fsRelease": "2020-04-19T16:00:00Z",
