@@ -2,9 +2,9 @@
   "swVersion": "1.2",
   "swMandatory": true,
   "swRelease": "2021-11-24T04:59:00Z",
-  "swURL": "https://github.com/marcelohaubrih/VersionController/tree/main/feraService/coletor/nodemcu/fera-coletor.ino.nodemcu.bin",
+  "swURL": "https://github.com/marcelohaubrih/VersionController/raw/main/feraService/coletor/nodemcu/fera-coletor.ino.nodemcu.bin",
   "fsVersion": "1.1",
   "fsMandatory": false,
   "fsRelease": "2020-04-19T16:00:00Z",
-  "fsURL": "https://github.com/marcelohaubrih/VersionController/tree/main/feraService/coletor/nodemcu/fera-coletor.spiffs.nodemcu.bin"
+  "fsURL": "https://github.com/marcelohaubrih/VersionController/raw/main/feraService/coletor/nodemcu/fera-coletor.spiffs.nodemcu.bin"
 }
